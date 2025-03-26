@@ -17,12 +17,13 @@ Simple Error Handling: Basic error handling is provided, such as when trying to 
 Start the Application
 To start the platform, simply run the Main class. It will initiate the platform and present a menu to interact with the stock market.
 Available Commands:
-market: Displays the current stock market data (list of stocks and their prices).
-buy: Allows users to buy stocks. Example usage: buy AAPL 10 will buy 10 shares of AAPL.
-sell: Allows users to sell stocks from their portfolio. Example usage: sell AAPL 5 will sell 5 shares of AAPL.
-portfolio: Displays the current portfolio, showing which stocks the user owns and the quantity.
+-market: Displays the current stock market data (list of stocks and their prices).
+-buy: Allows users to buy stocks. Example usage: buy AAPL 10 will buy 10 shares of AAPL.
+-sell: Allows users to sell stocks from their portfolio. Example usage: sell AAPL 5 will sell 5 shares of AAPL.
+-portfolio: Displays the current portfolio, showing which stocks the user owns and the quantity.
+-exit: Exits the application.
+
 
 **#Contribution**
 Feel free to contribute to the game by reporting issues or submitting pull requests.
 
-exit: Exits the application.
